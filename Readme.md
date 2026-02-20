@@ -164,7 +164,7 @@ When the bot starts:
 <div align="center">
 
 <a href="https://xpayway-k7p9.onrender.com/" target="_blank">
-  <img src="">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
 </a>
 
 </div>
@@ -173,7 +173,7 @@ If you find this project helpful and want to support the developer, consider buy
 
 <div align="center">
 
-<img src="utils/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="200">
+<img src="" alt="Buy Me a Coffee QR Code" width="200">
 
 </div>
 
