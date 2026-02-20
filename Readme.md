@@ -37,7 +37,7 @@ All commands and the overall structure are written in a way that makes customiza
 
 </div>
 
-> This creates your own copy of `Knightbot-Mini` under your GitHub account.
+> This creates your own copy of `WAGWAN-XP` under your GitHub account.
 
 ---
 
