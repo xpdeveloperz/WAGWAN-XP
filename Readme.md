@@ -56,13 +56,13 @@ Deploy a small helper to generate a **pair code** and obtain your session string
 After scanning, you will receive a **session string** starting with:
 
 ```text
-KnightBot!H4....
+WAGWAN-XP....
 ```
 
 Copy that full string and paste it into `config.js`:
 
 ```js
-sessionID: "KnightBot!H4.....";
+sessionID: "WAGWAN-XP.....";
 ```
 
 Or set it via the `SESSION_ID` environment variable when hosting.
@@ -94,8 +94,8 @@ For a full step‑by‑step deployment tutorial (panels / VPS / Heroku), add or 
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/mruniquehacker/Knightbot-Mini.git
-cd Knightbot-Mini
+git clone https://github.com/mruniquehacker/WAGWAN-XP.git
+cd WAGWAN-XP
 ```
 
 ### 2️⃣ Install dependencies
@@ -111,7 +111,7 @@ Edit `config.js`:
 - **Option A: Use session string**
 
   ```js
-  sessionID: "KnightBot!H4.....";
+  sessionID: "WAGWAN-XP.....";
   ```
 
 - **Option B: Scan QR**
@@ -139,11 +139,11 @@ When the bot starts:
 
 <div align="center">
 
-<a href="https://t.me/+3QhFUZHx-nhhZmY1" target="_blank">
+<a href="https://t.me/xptoolsteam" target="_blank">
   <img src="https://img.shields.io/badge/Join-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram">
 </a>
 
-<a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A" target="_blank">
+<a href="https://whatsapp.com/channel/0029Vb7IFpy4Spk8F74D7S0U" target="_blank">
   <img src="https://img.shields.io/badge/Join-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel">
 </a>
 
@@ -153,7 +153,7 @@ When the bot starts:
 
 ## 🙏 Credits
 
-- **Mr Unique Hacker** – Main developer & maintainer
+- **XP TOOLS** – Main developer & maintainer
 - **Baileys** – WhatsApp Web API library (`@whiskeysockets/baileys`)
 - Other open‑source libraries listed in `package.json`
 
@@ -163,8 +163,8 @@ When the bot starts:
 
 <div align="center">
 
-<a href="https://buymeacoffee.com/mruniquehacker" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
+<a href="https://xpayway-k7p9.onrender.com/" target="_blank">
+  <img src="">
 </a>
 
 </div>
