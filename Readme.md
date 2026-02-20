@@ -173,7 +173,7 @@ If you find this project helpful and want to support the developer, consider buy
 
 <div align="center">
 
-<img src="" alt="Buy Me a Coffee QR Code" width="200">
+<img src="" alt="" width="200">
 
 </div>
 
